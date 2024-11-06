@@ -18,3 +18,4 @@
   <a href="https://www.linkedin.com/in/rodrigopereyraz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:rodriirage@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+<p align="center"><a href="https://github.com/Drako01"><img src="https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg"></a></p>
